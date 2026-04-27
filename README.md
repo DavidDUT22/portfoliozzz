@@ -1,2 +1,2 @@
-# portfoliozzz
+# portfolioz
 This is my very first Portfolio just for learning...
